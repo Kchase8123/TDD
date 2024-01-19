@@ -1,4 +1,3 @@
-// Your code here
 const { expect } = require('chai');
 const { returnsThree, reciprocal } = require('../problems/number-fun')
 
